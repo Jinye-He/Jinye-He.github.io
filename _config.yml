@@ -7,7 +7,7 @@
 
 # Site Settings
 #locale                   : ""
-#title                    : "Jinye He"
+title                    : "Jinye He/Personal Page"
 #title_separator          : "-"
 name                     : &name "Jinye He"
 description              : &description "Research assistant in Cryptography"
