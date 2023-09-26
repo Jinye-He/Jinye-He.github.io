@@ -13,4 +13,4 @@ I have a broad interest in Cryptography, especially Zero-Knowledge.
 
 You can find my CV here: [Jinye He's Curriculum Vitae](../assets/CV.pdf).  
 
-[Email](Jin-yeHe@outlook.com) / [Github](https://github.com/Jinye-He)
+[Email](mailto:Jin-yeHe@outlook.com) / [Github](https://github.com/Jinye-He)
