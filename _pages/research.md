@@ -15,7 +15,7 @@ When I was an undergraduate student, I learned Combinatorics and was surprised b
 
 As my master's dissertation, I paid my attention on the breakthrough of Kahn-Kalai Conjecture by Jinyoung Park and Huy Tuan Pham. My supervisor is Prof. Paul Balister.  
 
-**[A survey of Kahn-Kalai Conjecture](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/dissertation.pdf)
+**[A survey of Kahn-Kalai Conjecture](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/dissertation.pdf)**
 
 - Park and Pham successfully proved the renowned Kahn-Kalai conjecture, offering an elegant upper bound for thresholds which is a core problem in random discrete structures. This survey focuses on the Kahn-Kalai conjecture, offering many examples to make the conjecture more motivated and various applications to vividly illustrate the profound significance of this conjecture.
 
