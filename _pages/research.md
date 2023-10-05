@@ -22,4 +22,4 @@ As my master's dissertation, I paid my attention on the breakthrough of Kahn-Kal
 ***
 
 During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I was attracted by cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).  
-![continue]()
+![continue](../images/continue.png)
