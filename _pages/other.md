@@ -5,7 +5,7 @@ permalink: /other/
 author_profile: true
 ---
 
-<img align="left" src="../images/birds.png" width="50%" height="50%"  alt="birds"/>
+<img align="left" src="../images/birds.png" width="30%" height="30%"  alt="birds"/>
 
 I enjoy reading poems and write some articles.  
 
