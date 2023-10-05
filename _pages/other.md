@@ -7,11 +7,11 @@ author_profile: true
 
 <img align="left" src="../images/birds.png" width="20%" height="20%"  alt="birds"/>
 
-I enjoy reading poems and write some articles.  
+ - I enjoy reading poems and write some articles.  
 
-After dinner, I love to take a stroll with my friends in the park.  
+ - After dinner, I love to take a stroll with my friends in the park.  
 
-Pending upgrate...
+ - Pending upgrate...
 
 
 
