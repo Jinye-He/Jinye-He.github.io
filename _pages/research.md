@@ -12,4 +12,13 @@ When I was an undergraduate student, I learned Combinatorics and was surprised b
 - Baranyai's Theorem states that a complete $k$-uniform hypergraph on $n$ vertices is $1$-factorable if and only if $k\mid n$. This project try to extend this theorem into non-uniform settings. We finally determined all n, k, such that the family $K_n^{\le k}$ consisting of subsets of $[n]$ of size up to k is 1-factorable, and thus extend Baranyai’s Theorem to the non-uniform setting.  
 
 ***
-During my studying time at Oxford, I was introduced to Cryptography and realized that I wished to do something more relevant to practical applications. Now I'm pursuing my master’s degree in maths at Oxford and looking for a PhD position.
+
+As my master's dissertation, I paid my attention on the breakthrough of Kahn-Kalai Conjecture by Jinyoung Park and Huy Tuan Pham. My supervisor is Prof. Paul Balister.  
+
+**[A survey of Kahn-Kalai Conjecture](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/dissertation.pdf)
+
+- Park and Pham successfully proved the renowned Kahn-Kalai conjecture, offering an elegant upper bound for thresholds which is a core problem in random discrete structures. This survey focuses on the Kahn-Kalai conjecture, offering many examples to make the conjecture more motivated and various applications to vividly illustrate the profound significance of this conjecture.
+
+***
+
+During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I was attracted by cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).
