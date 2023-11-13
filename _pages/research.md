@@ -15,11 +15,11 @@ When I was an undergraduate student, I learned Combinatorics and was surprised b
 
 As my master's dissertation, I paid my attention on the breakthrough of Kahn-Kalai Conjecture by Jinyoung Park and Huy Tuan Pham. My supervisor is Prof. Paul Balister.  
 
-**[A survey of Kahn-Kalai Conjecture](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/dissertation.pdf)**
+**[A survey of Kahn-Kalai Conjecture](../assets/dissertation.pdf)**
 
 - Park and Pham successfully proved the renowned Kahn-Kalai conjecture, offering an elegant upper bound for thresholds which is a core problem in random discrete structures. This survey focuses on the Kahn-Kalai conjecture, offering many examples to make the conjecture more motivated and various applications to vividly illustrate the profound significance of this conjecture.
 
 ***
 
-During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I took a course of Cryptography and wrote a [course project about blind signature](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/mini-project.pdf). I was attracted by Cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).  
+During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I took a course of Cryptography and wrote a [course project about blind signature](../assets/mini-project.pdf). I was attracted by Cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).  
 ![continue](../images/continue.png#pic_right){:height="20%" width="20%"}
