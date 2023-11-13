@@ -21,5 +21,5 @@ As my master's dissertation, I paid my attention on the breakthrough of Kahn-Kal
 
 ***
 
-During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I was attracted by Cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).  
+During my studying time at Oxford, I took some courses in Number Theory and was introduced to Cryptography. I took a course of Cryptography and wrote a [course project about blind signature](https://github.com/Jinye-He/Jinye-He.github.io/blob/master/assets/courseproject.pdf). I was attracted by Cryptography since it combines both real-world applications and an elegant mathematical theoretical foundation. Now, I am begining my new journey of research in Cryptography under the guidance of [Prof. Jiaheng Zhang](https://zjhzjh123.github.io/).  
 ![continue](../images/continue.png#pic_right){:height="20%" width="20%"}
