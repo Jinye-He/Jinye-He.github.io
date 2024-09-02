@@ -10,7 +10,7 @@
 title                    : "Jinye He/Personal Page"
 #title_separator          : "-"
 name                     : &name "Jinye He"
-description              : &description "Research assistant in Cryptography"
+description              : &description "PhD Student"
 url                      : "https://Jinye-He.github.io" # the base hostname & protocol for your site e.g. "https://jinye-he.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jinye-He/Jinye-He.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jinye He"
   avatar           : "jinyehe.png"
-  bio              : "Research intern in Cryptography"
-  location         : "China"
+  bio              : "PhD Student"
+  location         : "Charlottesville, VA"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
